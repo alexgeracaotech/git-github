@@ -18,3 +18,9 @@ git conig user.name 'nome-do-usuario'
 
 git config user.email 'email-do-usuario'
 ~~~
+
+#### git add
+
+~~~ bash
+git add nome-do-arquivo
+~~~
